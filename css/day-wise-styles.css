@@ -1,0 +1,47 @@
+body{
+    background: linear-gradient(0.25turn, #b2c9ed, #ebf8e1, #f1ad65);
+}
+h2 {
+    text-align: center;
+}
+
+input{
+    width:100px;
+}
+
+svg{
+    border: 1px solid black;
+    border-radius: 10px;
+    margin-left: 300px;
+    width:800px;
+    height:800px;
+    
+}
+
+div.tooltip {
+    position: absolute;
+    text-align: center;
+    padding: .5rem;
+    background: #FFFFFF;
+    color: #313639;
+    border: 1px solid #313639;
+    border-radius: 8px;
+    pointer-events: none;
+    font-size: 1.3rem;
+}
+
+.axis line, .axis circle  {
+    stroke: #cccccc;
+    stroke-width: 1px
+}
+
+.a-axis line {
+    stroke: #cccccc;
+    stroke-width: 1px;
+}
+
+.r-axis circle {
+    fill: none;
+    stroke: #cccccc;
+    stroke-width: 1px;
+}

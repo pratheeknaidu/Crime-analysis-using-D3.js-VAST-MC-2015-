@@ -1,0 +1,229 @@
+{
+    "children": [
+        {
+            "name": "cluster1",
+            "children": [
+                {
+                    "name": "Entrance",
+                    "value": 6041,
+                    "cluster": 1
+                },
+				{
+                    "name": "Kiddie",
+                    "value": 15914,
+                    "cluster": 1
+                },
+                {
+                    "name": "Everybody",
+                    "value": 17871,
+                    "cluster": 1
+                },
+                {
+                    "name": "First Aid",
+                    "value": 150,
+                    "cluster": 1
+                },
+                {
+                    "name": "Pavilion",
+                    "value": 3317,
+                    "cluster": 1
+                },
+                {
+                    "name": "Show Hall",
+                    "value": 3325,
+                    "cluster": 1
+                },
+                {
+                    "name": "Stage",
+                    "value": 1831,
+                    "cluster": 1
+                },
+                {
+                    "name": "Thrill",
+                    "value": 33664,
+                    "cluster": 1
+                }
+            ]
+        },
+        {
+            "name": "cluster2",
+            "children": [
+                {
+                    "name": "Entrance",
+                    "value": 1781,
+                    "cluster": 2
+                },
+				{
+                    "name": "Kiddie",
+                    "value": 2127,
+                    "cluster": 2
+                },
+                {
+                    "name": "Everybody",
+                    "value": 7947,
+                    "cluster": 2
+                },
+                {
+                    "name": "First Aid",
+                    "value": 62,
+                    "cluster": 2
+                },
+                {
+                    "name": "Pavilion",
+                    "value": 1420,
+                    "cluster": 2
+                },
+                {
+                    "name": "Show Hall",
+                    "value": 848,
+                    "cluster": 2
+                },
+                {
+                    "name": "Stage",
+                    "value": 227,
+                    "cluster": 2
+                },
+                {
+                    "name": "Thrill",
+                    "value": 24441,
+                    "cluster": 2
+                }
+            ]
+        },
+        {
+            "name": "cluster3",
+            "children": [
+                {
+                    "name": "Entrance",
+                    "value": 30218,
+                    "cluster": 3
+                },
+				{
+                    "name": "Kiddie",
+                    "value": 2733,
+                    "cluster": 3
+                },
+                {
+                    "name": "Everybody",
+                    "value": 2125,
+                    "cluster": 3
+                },
+                {
+                    "name": "First Aid",
+                    "value": 101,
+                    "cluster": 3
+                },
+                {
+                    "name": "Pavilion",
+                    "value": 9927,
+                    "cluster": 3
+                },
+                {
+                    "name": "Show Hall",
+                    "value": 15335,
+                    "cluster": 3
+                },
+                {
+                    "name": "Stage",
+                    "value": 741,
+                    "cluster": 3
+                },
+                {
+                    "name": "Thrill",
+                    "value": 10211,
+                    "cluster": 3
+                }
+            ]
+        },
+        {
+            "name": "cluster4",
+            "children": [
+                {
+                    "name": "Entrance",
+                    "value": 5307,
+                    "cluster": 4
+                },
+				{
+                    "name": "Kiddie",
+                    "value": 14356,
+                    "cluster": 4
+                },
+                {
+                    "name": "Everybody",
+                    "value": 17792,
+                    "cluster": 4
+                },
+                {
+                    "name": "First Aid",
+                    "value": 138,
+                    "cluster": 4
+                },
+                {
+                    "name": "Pavilion",
+                    "value": 2914,
+                    "cluster": 4
+                },
+                {
+                    "name": "Show Hall",
+                    "value": 2448,
+                    "cluster": 4
+                },
+                {
+                    "name": "Stage",
+                    "value": 1264,
+                    "cluster": 4
+                },
+                {
+                    "name": "Thrill",
+                    "value": 42071,
+                    "cluster": 4
+                }
+            ]
+        },
+        {
+            "name": "cluster5",
+            "children": [
+                {
+                    "name": "Entrance",
+                    "value": 999,
+                    "cluster": 5
+                },
+				{
+                    "name": "Kiddie",
+                    "value": 0,
+                    "cluster": 5
+                },
+                {
+                    "name": "Everybody",
+                    "value": 5428,
+                    "cluster": 5
+                },
+                {
+                    "name": "First Aid",
+                    "value": 58,
+                    "cluster": 5
+                },
+                {
+                    "name": "Pavilion",
+                    "value": 1010,
+                    "cluster": 5
+                },
+                {
+                    "name": "Show Hall",
+                    "value": 424,
+                    "cluster": 5
+                },
+                {
+                    "name": "Stage",
+                    "value": 120,
+                    "cluster": 5
+                },
+                {
+                    "name": "Thrill",
+                    "value": 20728,
+                    "cluster": 5
+                }
+            ]
+        }
+    ]
+}

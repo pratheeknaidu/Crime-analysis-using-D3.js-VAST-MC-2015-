@@ -1,0 +1,72 @@
+﻿Park Guide Index,Real World Type,DinoFun World Name,x-coor entrance,y-coor entrance,type
+1,Long Coaster,Wrightiraptor Mountain,47,11,Thrill
+2,Metal Coaster,Galactosaurus Rage,27,15,Thrill
+3,Wooden Coaster,Auvilotops Express,38,90,Thrill
+4,SkyDiver,TerrorSaur ,78,48,Thrill
+5,Wild Mouse,Wendisaurus Chase,16,66,Thrill
+6,Centrifuge,Keimosaurus Big Spin,86,44,Thrill
+7,Fireball,Firefall,17,43,Thrill
+8,Up and Back Coaster,Atmosfear,45,24,Thrill
+9,Ali Baba,Flight of the Swingodon,69,44,Thrill
+10,Train (Blue),North Line,92,81,Kiddie
+11,Paratrooper,Jeredactyl Jump,81,77,Kiddie
+12,Bumper Boats,Sauroma Bumpers,73,79,Kiddie
+13,Airplanes,Flying TyrAndrienkos,73,84,Kiddie
+14,Kiddie Wheel,Cyndisaurus Asteroid,79,87,Kiddie
+15,Froggies,Beelzebufo,76,88,Kiddie
+16,Strawberry Spin,Enchanted Toadstools,79,89,Kiddie
+17,Motorcycles,Stegocycles,82,80,Kiddie
+18,Balloons,Blue Iguanodon,83,88,Kiddie
+19,Boats,Wild Jungle Cruise,85,86,Kiddie
+20,Stone Cups,Stone Cups,87,81,Kiddie
+21,Train (Red),Scholtz Express,6,43,Everybody
+22,Carousel,Paleocarrie Carousel,34,68,Everybody
+23,Drive Cars,Jurassic Road,17,67,Everybody
+24,Bumper Cars,Rhynasaurus Rampage,16,49,Everybody
+25,Log Flume,Kauf's Lost Canyon Escape,43,56,Everybody
+26,Tilt A Whirl,Maiasaur Madness,26,59,Everybody
+27,Scrambler,Kristanodon Kaper,28,66,Everybody
+28,Octopus,Squidosaur,48,87,Everybody
+29,Round Up,Eberlesaurus Roundup,23,54,Everybody
+30,Pirate Swing,Dykesadactyl Thrill,87,48,Everybody
+31,Water Rapids,Ichthyoroberts Rapids,78,37,Everybody
+32,Whip,Raptor Race,43,78,Everybody
+33,Pavillion,Creighton Pavilion,32,33,Pavilion
+34,Main Beer Garden,Alvarez Beer Garden,20,33,Beer Garden
+35,Stage Beer Garden,Mary Anning Beer Garden,79,25,Beer Garden
+36,General Menu,Theresaur Food Stop,59,46,Food
+37,Sandwiches,Paleo Shreckwiches,35,15,Food
+38,Coffee House,Krystal Cook Café,59,89,Food
+39,Pizza,Shilobite o'Pizza,57,73,Food
+40,Sweet Shoppe,Chensational Sweets,87,68,Food
+41,Dino Souvenirs,Munzasaurus Souvenirs,42,60,Shopping
+42,Mercantile,Laskonasaur Store,57,64,Shopping
+43,Game Stop,World of WarRocks Shop,16,47,Shopping
+44,Dino Souvenirs,Whitley's Plushadactyl,44,25,Shopping
+45,Toy Shop,Staskosaurus Designs,69,72,Shopping
+46,Dress Up Shop,Dino Chic Clothing,56,80,Shopping
+47,Tattoos,Petroglyph Body Art,22,35,Shopping
+48,Game Stop 2,League of Legenodons,69,58,Shopping
+49,Magic Stand,The Magic Cavern,29,67,Shopping
+50,Bathroom 1,Raptor Restroom,3,66,Restroom
+51,Bathroom 2,Tar Pit Stop,52,28,Restroom
+52,Bathroom 3,LavaTory,55,50,Restroom
+53,Bathroom 4,Tricerastop,76,73,Restroom
+54,Bathroom 5,Darwin’s Stop ,22,27,Restroom
+55,Bathroom 6,Tyrannosaurus Rest,72,20,Restroom
+56,Bathroom 7,Fisching Rooms,92,77,Restroom
+57,BBQ,Old Wood BBQ,15,40,Food
+58,Ice Cream,Ice Age Cones,84,78,Food
+59,Pop Corn,Plaisantly Popped Corn,76,61,Food
+60,Funnel Cake,Floral Funnels,43,75,Food
+61,Ice Cream,Permafrosties,42,20,Food
+62,Pizza,Granite Slab Pizza,47,79,Food
+63,Fries,EberTrex Fries,23,66,Food
+64,Info Center 1,Daily Slab Maps and Info,68,91,Info
+65,Arcade 1,Primal Carnage Arcade,69,67,Arcade
+66,First Aid 1,Liggement Fix-Me-Up,50,57,First Aid
+67,Stage 1,Grinosaurus Stage,76,22,Stage
+81,Show Hall 1,SabreTooth Theatre,87,63,Show Hall
+100,North Entrance,,63,99,Entrance
+101,East Entrance,,99,77,Entrance
+102,West Entrance,,0,67,Entrance

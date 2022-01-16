@@ -1,0 +1,71 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <!--    link to css file-->
+        <link rel='stylesheet' href='css/day-wise-styles.css'>
+        <!-- Javasript -->
+        <script src="scripts/src.js" defer></script>
+        <script src="scripts/park.js" defer></script>
+        <script src="scripts/lollipop.js" defer></script>
+        <script src="scripts/radialBar.js" defer></script>
+        <!-- D3 -->
+        <script src='https://d3js.org/d3.v5.min.js'></script>
+        <title>Day-wise Analysis</title>
+    </head>
+    <body>
+        <div id="wrapper">
+            <h2>Day-wise analysis of Dino Fun World data</h2>
+            <hr style="width: 100%;" color="grey">
+            <br>
+            <div class="controls" style="font-family: 'Times New Roman'">
+                &emsp;
+                &emsp;
+                &emsp;
+                &emsp;
+                &emsp;
+                &emsp;
+                &emsp;
+                &emsp;
+                &emsp;
+                &emsp;
+                &emsp;
+                &emsp;
+                &emsp;
+                &emsp;
+                &emsp;
+                &emsp;
+                Week Days:
+                <select id="week_days" onchange="draw_bubbles()">
+                    <option value="Friday">Friday</option>
+                    <option value="Saturday">Saturday</option>
+                    <option value="Sunday">Sunday</option>
+                </select>
+
+                &nbsp;
+
+                Time Stamp:
+                <button onclick="dec()">-</button>
+                <input id='timestamp_input' type='text' value="08:00" onchange="animatedSize()"/>
+                <button onclick="inc()">+</button>
+
+                &nbsp;
+                Cluster :
+                <select id="cluster" onchange="reset()">
+                    <option value=0>Families</option>
+                    <option value=1>Adults</option>
+                    <option value=2>Strollers</option>
+                    <option value=3>Breezy</option>
+                    <option value=4>Adrenaline-Junkies</option>
+                </select>
+
+                &nbsp;
+
+                <button type="button" class="btn btn-outline-warning" onclick= "reset()">Reset</button>
+            </div>
+            <br>
+            <svg id='image-svg'></svg>
+            <svg id='lollipop-svg'></svg>
+            <svg id='bar-chart-svg'></svg>
+        </div>
+    </body>
+</html>
